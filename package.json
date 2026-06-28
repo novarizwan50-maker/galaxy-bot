@@ -1,0 +1,9 @@
+{
+  "name": "galaxy-bot",
+  "version": "1.0.0",
+  "description": "Galaxy Gang Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
